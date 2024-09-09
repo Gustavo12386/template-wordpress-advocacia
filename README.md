@@ -1,4 +1,12 @@
 # template-wordpress-advocacia
+
+## Sobre o projeto
+- Essa template se trata de uma template baseada no universo da advocacia, na qual acaba exibindo informações sobre um profissional de uma determinada área juridica,
+incluindo também a opção de entrar em contato com o profissional.
+
+### Link-site
+- http://advocacia-template.rf.gd/wp-admin/
+
 ## Imagens
 ![Captura de tela em 2024-08-30 19-42-52](https://github.com/user-attachments/assets/ded6d379-6b64-4c59-8eb4-52a6aad6ac56)
 ![Captura de tela em 2024-08-30 19-43-14](https://github.com/user-attachments/assets/3796faa9-87e6-412c-b532-7379c4cc224e)
